@@ -1,2 +1,2 @@
-# Binary Search Tree Movie Collection.
+# Binary Search Tree Movie Collection
 Using binary search tree algorithm to store and manipulate a movie collection library. Using non-linear data structures and algorithms and developing reusable abstract data types (ADTs). Designing an efficient algorithm to solve two computational problems, traversing the binary search tree, empirically analysing the Big O time efficiency of the algorithms, testing the implementation and writing a technical report.
