@@ -1,2 +1,2 @@
-# Movie-Collection
-Using binary search tree algorithm to store and manipulate a movie collection library. As part of CAB301 - Algorithms and Complexity.
+# Binary Search Tree Movie Collection.
+Using binary search tree algorithm to store and manipulate a movie collection library. Using non-linear data structures and algorithms and developing reusable abstract data types (ADTs). Designing an efficient algorithm to solve two computational problems and analysing the time efficiency of the algorithms, testing the implementation and writing a technical report.
